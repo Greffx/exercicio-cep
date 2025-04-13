@@ -73,8 +73,9 @@ mvn spring-boot:run
 
 <p>Para interromper a execução, pressione:</p>
 
-<pre><code class="sh">
-CTRL + C
-</code></pre>
-
+<pre><code class="sh">CTRL + C</code></pre>
+    
 <hr/>
+    
+<p>📌 <b>Relatório de tempo</b></p>
+<a href="https://wakatime.com/@f7f141e2-276e-4f06-a725-9247c96a10ed/projects/dpfzxmiqhr?start=2025-04-07&end=2025-04-13">https://wakatime.com/@f7f141e2-276e-4f06-a725-9247c96a10ed/projects/dpfzxmiqhr?start=2025-04-07&end=2025-04-13</a>
